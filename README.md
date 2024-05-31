@@ -3,6 +3,8 @@
 ## addons intro
 - https://youtu.be/7XHfH0JR5Ks?si=WJ5pmgI7CZ_WyWty
 
+## colors
+- https://www.youtube.com/watch?v=SRqWhE7oyRo&ab_channel=%E3%82%B5%E3%83%AB%E3%81%A7%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8BBlender%E3%80%90%E3%82%B5%E3%83%AB%E3%83%96%E3%83%AC%E3%80%91
 
 ## obj guides
 - https://youtu.be/2a_VtQJHkb8?si=luKgyS7ma-SjeYsa
